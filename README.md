@@ -33,9 +33,7 @@ configure the server to serve the website.
 *Apply suitable colors, fonts, margins, and padding to enhance the website's appearance.
 
 **Web Server Configuration:**
-*Copy the "index.html" and "style.css" files from the "mywebsite" directory to the appropriate
-
-*location on the Apache web server.
+*Copy the "index.html" and "style.css" files from the "mywebsite" directory to the appropriate location on the Apache web server.
 
 *Ensure that the web server has the necessary permissions to access and serve the files.
 
